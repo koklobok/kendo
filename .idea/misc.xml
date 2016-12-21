@@ -7,5 +7,9 @@
       </list>
     </option>
   </component>
+  <component name="Osmorc">
+    <option name="bundlesOutputPath" value="C:\Users\krunch\AppData\Local\Temp" />
+    <option name="frameworkInstanceName" value="Equinox (3.11.2.v20161107-1947)" />
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>
